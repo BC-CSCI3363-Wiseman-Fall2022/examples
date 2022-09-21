@@ -1,2 +1,2 @@
-# examples
-Example code for CSCI3363.
+# csci3363-examples
+Example code for Boston College CSCI3363.
